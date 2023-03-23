@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro</title>
+    <!-- favicon -->
+    <link rel="shortcut icon" href="favicon/favicon.ico" type="image/x-icon">
+    <!-- favicon -->
+    <!-- css -->
+    <link rel="stylesheet" href="css/style.css">
+    <!-- css -->
+</head>
+
+<body>
+    <!-- container -->
+    <div class="container">
+
+        <!-- formulario -->
+        <form id="form" method="post" action="login.html">
+            <header>
+                <h1>Cadastro</h1>
+            </header>
+
+            <!-- input -->
+            <div class="input">
+                <label for="name">Nome</label>
+                <input type="text" id="name" class="border" oninput="nameValidate()">
+                <div class="img">
+                    <img class="comfirm" src="img/confirm-svgrepo-com.svg" alt="">
+                    <img class="alert" src="img/alert-svgrepo-com.svg" alt="">
+                </div>
+            </div>
+            <div class="input">
+                <label for="sobrename">Sobre nome</label>
+                <input type="text" id="sobrename" class="border" oninput="nameSobreValidate()">
+                <div class="img">
+                    <img class="comfirm" src="img/confirm-svgrepo-com.svg" alt="">
+                    <img class="alert" src="img/alert-svgrepo-com.svg" alt="">
+                </div>
+            </div>
+            <div class="input">
+                <label for="email">Email</label>
+                <input type="email" name="email" id="email" class="border" oninput="emailValidate()">
+                <div class="img">
+                    <img class="comfirm" src="img/confirm-svgrepo-com.svg" alt="">
+                    <img class="alert" src="img/alert-svgrepo-com.svg" alt="">
+                </div>
+            </div>
+            <div class="input">
+                <label for="senha">Senha</label>
+                <input type="password" name="senha" id="senha" class="border" oninput="senhaValidate()">
+                <div class="img">
+                    <img class="comfirm" src="img/confirm-svgrepo-com.svg" alt="">
+                    <img class="alert" src="img/alert-svgrepo-com.svg" alt="">
+                </div>
+            </div>
+            <div class="input">
+                <label for="repita_senha">Repita sua senha</label>
+                <input type="password" name="repita senha" class="border" id="repita_senha"
+                    oninput="senhaRepertiValidate()">
+                <div class="img">
+                    <img class="comfirm" src="img/confirm-svgrepo-com.svg" alt="">
+                    <img class="alert" src="img/alert-svgrepo-com.svg" alt="">
+                </div>
+            </div>
+            <!-- input -->
+
+            <!-- butão -->
+            <div class="btn">
+                <button>Cadastre-se</button>
+            </div>
+            <!-- butão -->
+        </form>
+        <!-- formulario -->
+    </div>
+    <!-- container -->
+
+    <!-- js -->
+    <script src="js/script.js"></script>
+    <!-- js -->
+</body>
+
+</html>
