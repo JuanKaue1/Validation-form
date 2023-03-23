@@ -1,4 +1,4 @@
-Validação de um formulario de cadastro 
+Tela de cadastro com validação de formulario 
 
 ## 💻 Tecnologias
 - HTML
