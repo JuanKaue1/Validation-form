@@ -1,4 +1,4 @@
-Validação de um formulario de cadastro 
+<h1>Validação de um formulario de cadastro</h1>
 
 ## 💻 Tecnologias
 - HTML
