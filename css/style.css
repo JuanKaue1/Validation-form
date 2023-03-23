@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* container */
+
+.container {
+    background-color: rgba(101, 150, 255, 0.171);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    inset: 0;
+    margin: auto;
+    position: absolute;
+}
+
+/* container */
+
+/* formulario */
+
+#form {
+    max-width: 300px;
+    width: 100%;
+}
+
+/* input */
+
+.input {
+    margin: 10px 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.border {
+    border-radius: 10px;
+    border: 2px solid white;
+    padding: 15px 45px 15px 10px;
+}
+
+.img {
+    display: flex;
+    flex-direction: row;
+}
+
+img {
+    margin: 5px 0 0 0;
+    width: 25px;
+}
+
+.comfirm,
+.alert {
+    display: none;
+    display: none;
+    z-index: 0;
+    position: absolute;
+    margin: -37px 0 0 263px;
+}
+
+/* input */
+
+/* butão */
+
+.btn button {
+    padding: 15px;
+    background-color: green;
+    color: #fff;
+    border: 0;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 100%;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+/* butão */
+
+/* formulario */
