@@ -9,13 +9,14 @@
 /* container */
 
 .container {
-    background-color: rgba(101, 150, 255, 0.171);
+    background-color: #F0D550;
     display: flex;
     align-items: center;
     justify-content: center;
     inset: 0;
     margin: auto;
     position: absolute;
+    color: #fff;
 }
 
 /* container */
@@ -66,7 +67,7 @@ img {
 
 .btn button {
     padding: 15px;
-    background-color: green;
+    background-color: #48F0ED;
     color: #fff;
     border: 0;
     border-radius: 10px;
