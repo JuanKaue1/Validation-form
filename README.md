@@ -1,23 +1,25 @@
-<h1>Validação de um formulario de cadastro</h1>
+<h1>Convalidatio forma adnotatione</h1>
 
-## 💻 Tecnologias
-- HTML
-- CSS
+## Technologies
+-HTML
+-CSS
 - JavaScript
 
-## 💬 Assuntos abordados
-- HTML
-    - Estruturação da página 
-    - Pseudo-classes
-    - Acessibilidade
-    - Semântica
-- CSS
-    - Layout responsivo
-    - Flexbox
+## Subjects operuit
+-HTML
+     - Structure paginam
+     - Pseudo-classes
+     - Accessibility
+     - Semantics
+-CSS
+     - Responsivum layout
+     -Flexbox
 - JavaScript
-    - Validação de formulario
-    - Introdução ao JavaScript
-    - Manipulação do DOM
+     - Forma sanationis
+     - Introductio ad JavaScript
+     - dom manipulation
 
-## 🔗 Links auxiliares
-- [Demo](https://formulario001.vercel.app/) 
+## Nexus auxiliares
+- [Demo] (https://formulario001.vercel.app/)
+
+transferendum in anglicus
