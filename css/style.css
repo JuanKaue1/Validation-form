@@ -9,7 +9,7 @@
 /* container */
 
 .container {
-    background-color: #F0D550;
+    background-color: #006660;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -67,7 +67,7 @@ img {
 
 .btn button {
     padding: 15px;
-    background-color: #48F0ED;
+    background-color: #596AEB;
     color: #fff;
     border: 0;
     border-radius: 10px;
