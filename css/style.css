@@ -7,7 +7,6 @@
 }
 
 /* container */
-
 .container {
     background-color: #006660;
     display: flex;
@@ -19,17 +18,13 @@
     color: #fff;
 }
 
-/* container */
-
-/* formulario */
-
+/* form */
 #form {
     max-width: 300px;
     width: 100%;
 }
 
 /* input */
-
 .input {
     margin: 10px 0;
     display: flex;
@@ -52,19 +47,15 @@ img {
     width: 25px;
 }
 
-.comfirm,
+.confirm,
 .alert {
-    display: none;
     display: none;
     z-index: 0;
     position: absolute;
     margin: -37px 0 0 263px;
 }
 
-/* input */
-
-/* butão */
-
+/* button */
 .btn button {
     padding: 15px;
     background-color: #596AEB;
@@ -76,7 +67,3 @@ img {
     font-size: 1rem;
     font-weight: 500;
 }
-
-/* butão */
-
-/* formulario */
