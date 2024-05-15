@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cadastro</title>
+    <title>Register</title>
     <!-- favicon -->
     <link rel="shortcut icon" href="favicon/favicon.ico" type="image/x-icon">
     <!-- favicon -->
@@ -21,12 +21,12 @@
         <!-- formulario -->
         <form id="form" method="post" action="login.html">
             <header>
-                <h1>Cadastro</h1>
+                <h1>Register</h1>
             </header>
 
             <!-- input -->
             <div class="input">
-                <label for="name">Nome</label>
+                <label for="name">First Name</label>
                 <input type="text" id="name" class="border" oninput="nameValidate()">
                 <div class="img">
                     <img class="comfirm" src="img/confirm-svgrepo-com.svg" alt="">
@@ -34,7 +34,7 @@
                 </div>
             </div>
             <div class="input">
-                <label for="sobrename">Sobre nome</label>
+                <label for="sobrename">Surname</label>
                 <input type="text" id="sobrename" class="border" oninput="nameSobreValidate()">
                 <div class="img">
                     <img class="comfirm" src="img/confirm-svgrepo-com.svg" alt="">
@@ -50,7 +50,7 @@
                 </div>
             </div>
             <div class="input">
-                <label for="senha">Senha</label>
+                <label for="senha">Password</label>
                 <input type="password" name="senha" id="senha" class="border" oninput="senhaValidate()">
                 <div class="img">
                     <img class="comfirm" src="img/confirm-svgrepo-com.svg" alt="">
@@ -58,7 +58,7 @@
                 </div>
             </div>
             <div class="input">
-                <label for="repita_senha">Repita sua senha</label>
+                <label for="repita_senha">Repeat the password</label>
                 <input type="password" name="repita senha" class="border" id="repita_senha"
                     oninput="senhaRepertiValidate()">
                 <div class="img">
@@ -70,7 +70,7 @@
 
             <!-- butão -->
             <div class="btn">
-                <button>Cadastre-se</button>
+                <button>Register</button>
             </div>
             <!-- butão -->
         </form>
