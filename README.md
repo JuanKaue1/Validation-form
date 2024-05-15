@@ -1,19 +1,19 @@
 <h1>Validation of a registration form</h1>
 
 ## 💻 Technologies
--HTML
--CSS
+- HTML
+- CSS
 - JavaScript
 
 ## 💬 Subjects covered
--HTML
+- HTML
      - Structuring the page
      - Pseudo-classes
      - Accessibility
      - Semantics
--CSS
+- CSS
      - Responsive layout
-     -Flexbox
+     - Flexbox
 - JavaScript
      - Form validation
      - Introduction to JavaScript
