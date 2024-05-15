@@ -1,25 +1,25 @@
-<h1>Convalidatio forma adnotatione</h1>
+<h1>Validation of a registration form</h1>
 
-## Technologies
+## 💻 Technologies
 -HTML
 -CSS
 - JavaScript
 
-## Subjects operuit
+## 💬 Subjects covered
 -HTML
-     - Structure paginam
+     - Structuring the page
      - Pseudo-classes
      - Accessibility
      - Semantics
 -CSS
-     - Responsivum layout
+     - Responsive layout
      -Flexbox
 - JavaScript
-     - Forma sanationis
-     - Introductio ad JavaScript
-     - dom manipulation
+     - Form validation
+     - Introduction to JavaScript
+     - DOM manipulation
 
-## Nexus auxiliares
-- [Demo] (https://formulario001.vercel.app/)
+## 🔗 Auxiliary links
+- [Demo](https://formulario001.vercel.app/)
 
-transferendum in anglicus
+translate into english
